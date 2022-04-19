@@ -1,2 +1,0 @@
-32 23 * * * /root/apps/acme_daemon/main.bash > /root/apps/acme_daemon/cron.log 2>&1
-
